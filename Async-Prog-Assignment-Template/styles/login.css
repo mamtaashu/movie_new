@@ -1,0 +1,55 @@
+#login-form-div{
+    /* border: 1px solid black; */
+    display: flex;
+    width:100%;
+    justify-content:right;
+    gap:2vw;
+}
+#login-form-div a{
+text-decoration:none;
+color:black;
+font-size: 1.6vw;
+
+}
+#signup{
+padding-right: 1.3vw;
+}
+form{
+/* border: 1px solid green; */
+width:30%;
+margin: auto;
+margin-top: 4vw;
+padding-left: 12vw;
+height: 300px;
+}
+#para{
+/* text-align: center; */
+color:red;
+font-size: 1.6vw;
+margin-left: 0vw;
+
+}
+input{
+    display: block;
+    margin-top: 1vw;
+    /* text-align: center; */
+    font-size: 1.1vw;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border-radius: 10px;
+    font-style: italic;
+
+}
+#Submit{
+padding-left: 2vw;
+/* margin:auto ; */
+padding-right: 2vw;
+margin-left: 2vw
+}
+form>p{
+
+
+margin-left:-250px;
+        font-family: cursive;
+        color:pink;
+}
